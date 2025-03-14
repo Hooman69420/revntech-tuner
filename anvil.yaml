@@ -4,9 +4,10 @@ dependencies:
   dep_id: dep_lin1x4oec0ytd
   resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
   version: {version_tag: v1.2.2}
-name: M3 App 2
+metadata: {description: 'Explore RevnTech in Quiot, Cebu City - the ultimate destination for premium mobile phone and automotive solutions. Benefit from our expert repairs, top-quality parts, and exceptional service. Join us at RevnTech for a superior customer experience.', logo_img: 'asset:main-logo.png', title: RevnTech Tuner Software}
+name: RevnTech Tuner
 native_deps: null
-package_name: M3_App_2
+package_name: RevnTech_Tuner
 runtime_options:
   client_version: '3'
   server_spec: {base: python310-minimal}
@@ -16,3 +17,5 @@ services:
 - client_config: {}
   server_config: {}
   source: /runtime/services/tables.yml
+startup: {module: Form2, type: form}
+startup_form: null

@@ -1,7 +1,12 @@
 unique_ids:
   assets:
+    main-logo.png: '1741937021048608386323266.1095'
+    style.css: '1741940410318182135406336.4764'
     theme.css: 6G44GIEQQRJLILWU6GQSQO5BTDFT5ZI3
-  forms: {}
+  forms:
+    Form2: '1741936740174763537894893.3063'
+    Form2.ItemTemplate1: '1741937402908705161263988.0319'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1741943765492382506324464.2055'

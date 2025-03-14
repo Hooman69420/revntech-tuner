@@ -1,1 +1,11 @@
+color_scheme:
+  colors:
+  - {color: '#204367', name: Primary}
+  - {color: '#b42421', name: Secondary}
+  - {color: '#021c45', name: Accent 1}
+  - {color: '#f5f5f5', name: Background}
+  - {color: '#fff', name: White}
+  - {color: '#333', name: Gray}
+  - {color: '#CEC3B5', name: Decoration}
+  preset_groups: []
 roles: []
